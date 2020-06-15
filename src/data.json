@@ -1,0 +1,988 @@
+{
+    "sessions": [
+      {
+        "id": "63d5742d-0c03-4849-bfb2-24cbb68f66a1",
+        "start": "2019-08-17T08:30:00+08:00",
+        "end": "2019-08-17T09:00:00+08:00",
+        "title": "\u5165\u5834\u6642\u9593",
+        "room": "IB101",
+        "speaker": ""
+      },
+      {
+        "id": "opening",
+        "start": "2019-08-17T09:00:00+08:00",
+        "end": "2019-08-17T09:20:00+08:00",
+        "title": "\u958b\u5e55 & \u9996\u65e5\u6458\u8981",
+        "room": "IB101",
+        "speaker": "COSCUP Staff"
+      },
+      {
+        "id": "978c7eb3-93ef-4857-9849-2d2f77101d1d",
+        "start": "2019-08-17T09:20:00+08:00",
+        "end": "2019-08-17T09:50:00+08:00",
+        "title": "LINE Open Up - \u5171\u5275\u4e92\u60e0\u958b\u767c\u793e\u7fa4\u751f\u614b\u5708",
+        "room": "IB101",
+        "speaker": "\u6797\u5b9c\u92d2"
+      },
+      {
+        "id": "multicloud-sdn",
+        "start": "2019-08-17T09:30:00+08:00",
+        "end": "2019-08-17T10:10:00+08:00",
+        "title": "\u548c\u6211\u4e00\u8d77\u7528\u5168\u88f8\u5bb9\u5668\u7db2\u8def\u6539\u8b8a\u4e16\u754c",
+        "room": "IB401",
+        "speaker": "Phil Huang \u9ec3\u79c9\u921e"
+      },
+      {
+        "id": "2eb098d8-d606-4a7b-904b-c68ba5047258",
+        "start": "2019-08-17T10:00:00+08:00",
+        "end": "2019-08-17T10:50:00+08:00",
+        "title": "Apache\u4e4b\u9053\uff1a\u4ece\u5b75\u5316\u5668\u5230\u9876\u7ea7\u9879\u76ee\u4e4b\u8def",
+        "room": "IB101",
+        "speaker": "\u5218\u5929\u680b"
+      },
+      {
+        "id": "9bad941c-01a4-4161-96b9-63955467d180",
+        "start": "2019-08-17T10:00:00+08:00",
+        "end": "2019-08-17T10:45:00+08:00",
+        "title": "\u5f9e memory model \u7684\u89d2\u5ea6\u63a2\u8a0e Linux kernel \u5728 concurrency \u7684\u884c\u70ba",
+        "room": "IB201",
+        "speaker": "\u7fc1\u654f\u7dad"
+      },
+      {
+        "id": "1a38b8ff-b554-4fd2-b64f-ef8811c04084",
+        "start": "2019-08-17T10:00:00+08:00",
+        "end": "2019-08-17T10:30:00+08:00",
+        "title": "\u5f00\u6e90\u8fd0\u52a8\u4e0e\u8f6f\u4ef6\u5f00\u53d1",
+        "room": "IB202",
+        "speaker": "\u5e84\u8868\u4f1f"
+      },
+      {
+        "id": "a5e2288c-2a3a-46b4-a04b-f2c21ebfd4e1",
+        "start": "2019-08-17T10:00:00+08:00",
+        "end": "2019-08-17T10:20:00+08:00",
+        "title": "\u7d66 Web \u5de5\u7a0b\u5e2b\u7684 Rust \u4e0a\u624b\u6307\u5357",
+        "room": "IB301",
+        "speaker": "\u8212\u6b23"
+      },
+      {
+        "id": "2c01794e-12f6-4434-b12b-7ab28cd29a9d",
+        "start": "2019-08-17T10:00:00+08:00",
+        "end": "2019-08-17T10:25:00+08:00",
+        "title": "\u8ffd\u8e64\u52d5\u756b\u622a\u5716\u51fa\u8655\u7684\u641c\u5c0b\u5f15\u64ce",
+        "room": "IB302",
+        "speaker": "soruly"
+      },
+      {
+        "id": "4c3da7bc-e97c-4fca-90cb-fadf2ba72b3f",
+        "start": "2019-08-17T10:00:00+08:00",
+        "end": "2019-08-17T10:50:00+08:00",
+        "title": "\u6dfa\u5165\u6dfa\u51fa ELF",
+        "room": "IB304",
+        "speaker": "\u90ed\u71c1\u5ef7"
+      },
+      {
+        "id": "74c5eaa3-e026-4290-86aa-334653923c27",
+        "start": "2019-08-17T10:00:00+08:00",
+        "end": "2019-08-17T10:50:00+08:00",
+        "title": "Infra / DevOps \u7684\u990a\u6210\u4e4b\u8def\u8207\u958b\u6e90\u5de5\u5177",
+        "room": "IB305",
+        "speaker": "\u51cd\u4ec1\u7fd4"
+      },
+      {
+        "id": "web-browser-extension-workshop",
+        "start": "2019-08-17T10:00:00+08:00",
+        "end": "2019-08-17T10:55:00+08:00",
+        "title": "\u700f\u89bd\u5668\u64f4\u5145\u5957\u4ef6\u5de5\u4f5c\u574a\uff08\u7b2c\u4e00\u68af\u6b21\uff09",
+        "room": "IB306",
+        "speaker": "Ett Chung"
+      },
+      {
+        "id": "1c418784-accd-4495-8740-fc27a4410d66",
+        "start": "2019-08-17T10:00:00+08:00",
+        "end": "2019-08-17T16:00:00+08:00",
+        "title": "HACKROOM",
+        "room": "IB408",
+        "speaker": ""
+      },
+      {
+        "id": "mysql-at-line",
+        "start": "2019-08-17T10:00:00+08:00",
+        "end": "2019-08-17T10:40:00+08:00",
+        "title": "MySQL at LINE",
+        "room": "IB501",
+        "speaker": "Kentaro Kitagawa"
+      },
+      {
+        "id": "771a7bc9-b7b0-4300-bd34-61d0aac350e9",
+        "start": "2019-08-17T10:00:00+08:00",
+        "end": "2019-08-17T10:25:00+08:00",
+        "title": "MimbleWimble\u96b1\u79c1\u5354\u8b70\u4ee5\u53ca\u5176\u5be6\u4f5c",
+        "room": "IB502",
+        "speaker": "\u8cf4\u4f73\u7948"
+      },
+      {
+        "id": "developing-azure-functions-aws-lambda-on-knative",
+        "start": "2019-08-17T10:00:00+08:00",
+        "end": "2019-08-17T10:40:00+08:00",
+        "title": "Developing Azure Functions & AWS Lambda on Knative",
+        "room": "IB503",
+        "speaker": "\u912d\u6df3\u5c39"
+      },
+      {
+        "id": "8d814174-c21b-4fed-bfde-85f1e36b7da9",
+        "start": "2019-08-17T10:00:00+08:00",
+        "end": "2019-08-17T10:05:00+08:00",
+        "title": "g0v \u516c\u6c11\u79d1\u6280\u5275\u65b0\u734e\u52a9\u91d1\u5c08\u984c\u7c21\u4ecb",
+        "room": "IE2102",
+        "speaker": ""
+      },
+      {
+        "id": "d9ef4229-81e1-4a2b-89dd-b6ae2b357406",
+        "start": "2019-08-17T10:05:00+08:00",
+        "end": "2019-08-17T10:40:00+08:00",
+        "title": "\u570b\u5bb6\u5bf6\u85cf\u9081\u5411\u5169\u6b72\u4e4b\u5c55\u671b",
+        "room": "IE2102",
+        "speaker": "\u856d\u65b0\u665f"
+      },
+      {
+        "id": "use-rust-to-build-a-distributed-transactional-key-value-database",
+        "start": "2019-08-17T10:20:00+08:00",
+        "end": "2019-08-17T11:00:00+08:00",
+        "title": "Use Rust to Build a Distributed Transactional Key-Value Database",
+        "room": "IB301",
+        "speaker": "LiuTang"
+      },
+      {
+        "id": "moving-to-python-3-while-keeping-the-mozilla-fuzzing-lights-on",
+        "start": "2019-08-17T10:30:00+08:00",
+        "end": "2019-08-17T10:55:00+08:00",
+        "title": "Moving to Python 3 while keeping the Mozilla fuzzing lights on",
+        "room": "IB302",
+        "speaker": "Gary Kwong"
+      },
+      {
+        "id": "bd27bdcd-7ee0-4751-8f8e-d6fe492b8bf8",
+        "start": "2019-08-17T10:30:00+08:00",
+        "end": "2019-08-17T10:55:00+08:00",
+        "title": "\u8a8d\u8b58\u96f6\u77e5\u8b58\u8b49\u660e",
+        "room": "IB502",
+        "speaker": "\u5433\u5049\u8aa0"
+      },
+      {
+        "id": "c56c0dfd-b547-49e3-b012-844345125ef2",
+        "start": "2019-08-17T10:35:00+08:00",
+        "end": "2019-08-17T11:05:00+08:00",
+        "title": "\u4e2d\u56fd\u5927\u9646\u5927\u578b\u4f01\u4e1a\u5185\u5916\u90e8\u5f00\u6e90\u73b0\u72b6\u548c\u672a\u6765",
+        "room": "IB202",
+        "speaker": "\u9a6c\u5168\u4e00"
+      },
+      {
+        "id": "70298b40-33e6-428b-8186-a12749aecb8f",
+        "start": "2019-08-17T10:40:00+08:00",
+        "end": "2019-08-17T11:20:00+08:00",
+        "title": "\u5982\u4f55\u8b93\u4f8f\u5138\u7d00\u6050\u9f8d\u7fa4\u807d\u4f60\u7684\u8a71\uff1f",
+        "room": "IB503",
+        "speaker": "\u5f35\u6b63\u4e00"
+      },
+      {
+        "id": "ee3d8a30-e12b-43b3-87df-a7ccd302e48e",
+        "start": "2019-08-17T10:40:00+08:00",
+        "end": "2019-08-17T11:20:00+08:00",
+        "title": "\u5168\u6c11\u8ffd\u771f\u5047 \u2014\u2014 \u8a2d\u8a08\u958b\u653e\u7fa4\u773e\u53c3\u8207\u7684\u5373\u6642\u8a0a\u606f\u67e5\u8b49\u7cfb\u7d71 Cofacts",
+        "room": "IE2102",
+        "speaker": "mrorz"
+      },
+      {
+        "id": "71a818c0-4fe1-41f3-b026-e6452073d5c7",
+        "start": "2019-08-17T10:45:00+08:00",
+        "end": "2019-08-17T11:15:00+08:00",
+        "title": "\u6211\u5011\u8207 M-CORD Release \u7684\u8ddd\u96e2",
+        "room": "IB401",
+        "speaker": "Wei-Yu Chen"
+      },
+      {
+        "id": "mysql-innodb-cluster",
+        "start": "2019-08-17T10:45:00+08:00",
+        "end": "2019-08-17T11:25:00+08:00",
+        "title": "MySQL InnoDB Cluster",
+        "room": "IB501",
+        "speaker": "\u99ac\u695a\u6210"
+      },
+      {
+        "id": "c28a24bf-2dab-4c60-af11-836c168123ba",
+        "start": "2019-08-17T10:50:00+08:00",
+        "end": "2019-08-17T11:15:00+08:00",
+        "title": "Hello World \u7684\u4e00\u751f",
+        "room": "IB201",
+        "speaker": "Wen Liao"
+      },
+      {
+        "id": "learn-to-test-and-then-test-to-learn",
+        "start": "2019-08-17T11:00:00+08:00",
+        "end": "2019-08-17T11:50:00+08:00",
+        "title": "Learn to test and then test to learn",
+        "room": "IB101",
+        "speaker": "Yuan-Che (Wonder) Chang"
+      },
+      {
+        "id": "how-likechain-communicates-with-ethereum",
+        "start": "2019-08-17T11:00:00+08:00",
+        "end": "2019-08-17T11:25:00+08:00",
+        "title": "How we develop LikeChain using Cosmos SDK",
+        "room": "IB302",
+        "speaker": "Chung Wu"
+      },
+      {
+        "id": "7a154f7d-e594-4316-be69-edecff48277c",
+        "start": "2019-08-17T11:00:00+08:00",
+        "end": "2019-08-17T11:50:00+08:00",
+        "title": "\u5f9e\u539f\u59cb\u78bc\u770b Go \u8a9e\u8a00\u7684\u4f75\u767c\u8207\u6392\u7a0b\u5be6\u73fe",
+        "room": "IB304",
+        "speaker": "\u674e\u6839\u9038"
+      },
+      {
+        "id": "0e4d29f2-e970-4892-ba44-fd913b7f0fea",
+        "start": "2019-08-17T11:00:00+08:00",
+        "end": "2019-08-17T11:50:00+08:00",
+        "title": "SQA \u7684\u990a\u6210\u4e4b\u8def\u8207\u958b\u6e90\u5de5\u5177",
+        "room": "IB305",
+        "speaker": "Stephen Hsu"
+      },
+      {
+        "id": "web-browser-extension-workshop-2",
+        "start": "2019-08-17T11:00:00+08:00",
+        "end": "2019-08-17T11:55:00+08:00",
+        "title": "\u700f\u89bd\u5668\u64f4\u5145\u5957\u4ef6\u5de5\u4f5c\u574a\uff08\u7b2c\u4e8c\u68af\u6b21\uff09",
+        "room": "IB306",
+        "speaker": "Ett Chung"
+      },
+      {
+        "id": "smart-contract-vulnerabilities-dasp-top-10-exploits-walk-through",
+        "start": "2019-08-17T11:00:00+08:00",
+        "end": "2019-08-17T11:25:00+08:00",
+        "title": "Smart Contract Vulnerabilities: DASP Top 10 Exploits Walk Through",
+        "room": "IB502",
+        "speaker": "\u80e1\u8000\u5091"
+      },
+      {
+        "id": "29ee151f-8eeb-45c1-bcd5-dc8ec94b785f",
+        "start": "2019-08-17T11:10:00+08:00",
+        "end": "2019-08-17T11:40:00+08:00",
+        "title": "\u5728\u6ef4\u6ef4\u662f\u5982\u4f55\u505a\u5f00\u6e90\u7684",
+        "room": "IB202",
+        "speaker": "\u738b\u8574\u535a"
+      },
+      {
+        "id": "31c4425d-032c-4855-a280-f8724f2bd27b",
+        "start": "2019-08-17T11:10:00+08:00",
+        "end": "2019-08-17T11:30:00+08:00",
+        "title": "\u5403\u500b\u6ce1\u9eb5\uff0c\u9806\u4fbf\u958b\u6e90\u8ca2\u737b (\u4ee5 RustPython \u70ba\u4f8b)",
+        "room": "IB301",
+        "speaker": "\u6d2a\u6148\u541f"
+      },
+      {
+        "id": "5e8f1110-d40f-40b6-b6a2-4bdac0dcc8b1",
+        "start": "2019-08-17T11:20:00+08:00",
+        "end": "2019-08-17T12:05:00+08:00",
+        "title": "\u81ea\u52d5\u99d5\u99db\u7cfb\u7d71\u8207\u6210\u5927\u958b\u6e90\u81ea\u52d5\u99d5\u99db\u8edf\u9ad4\u958b\u767c\u7d93\u9a57\u5206\u4eab",
+        "room": "IB201",
+        "speaker": "\u738b\u7d39\u83ef"
+      },
+      {
+        "id": "sona-a-telco-driven-cloud-native-network-management-solution",
+        "start": "2019-08-17T11:20:00+08:00",
+        "end": "2019-08-17T12:00:00+08:00",
+        "title": "SONA: A Telco Driven Cloud Native Network Management Solution",
+        "room": "IB401",
+        "speaker": "Jian Li"
+      },
+      {
+        "id": "software-packaging-for-cross-os-distribution-build-debian-package-in-container-for-example",
+        "start": "2019-08-17T11:20:00+08:00",
+        "end": "2019-08-17T11:50:00+08:00",
+        "title": "Software Packaging for Cross OS Distribution : Build Debian Package in Container for Example",
+        "room": "IB503",
+        "speaker": "\u6f58\u5efa\u5b8f"
+      },
+      {
+        "id": "af7a540b-a5c9-490d-a6df-9c6bf2ea0012",
+        "start": "2019-08-17T11:20:00+08:00",
+        "end": "2019-08-17T11:55:00+08:00",
+        "title": "\u4fee\u7149\u690d\u7269\u8fa8\u8b58\u7684\u8f9b\u9178 Siu-li\u0101n si\u030dt-bu\u030dt pi\u0101n-sik \u00ea sin-sng",
+        "room": "IE2102",
+        "speaker": "\u738b\u5bcc\u6c11"
+      },
+      {
+        "id": "6f081c83-6597-4e25-9c22-eb3778d24367",
+        "start": "2019-08-17T11:30:00+08:00",
+        "end": "2019-08-17T11:50:00+08:00",
+        "title": "\u95dc\u65bc\u751f\u547d\u9031\u671f\u7684\u4e00\u9ede\u4e8b\u5152",
+        "room": "IB301",
+        "speaker": "\u912d\u5f18\u6607"
+      },
+      {
+        "id": "findings-in-preparation-of-upgrading-to-mysql-8-0",
+        "start": "2019-08-17T11:30:00+08:00",
+        "end": "2019-08-17T12:10:00+08:00",
+        "title": "Findings in preparation of upgrading to MySQL 8.0",
+        "room": "IB501",
+        "speaker": "Takahide Nojima"
+      },
+      {
+        "id": "c0473b84-0001-4d37-b0a4-1c263b88c560",
+        "start": "2019-08-17T11:30:00+08:00",
+        "end": "2019-08-17T11:55:00+08:00",
+        "title": "EWASM VM - \u6b21\u4e16\u4ee3\u7684 Ethereum Virtual Machine",
+        "room": "IB502",
+        "speaker": "\u6234\u5b8f\u7a4e"
+      },
+      {
+        "id": "bd2e5724-8f46-4707-9afa-d4bfc7b5fb58",
+        "start": "2019-08-17T11:45:00+08:00",
+        "end": "2019-08-17T12:15:00+08:00",
+        "title": "Apache \u9876\u7ea7\u9879\u76ee\u4e4b\u65c5",
+        "room": "IB202",
+        "speaker": "\u5434\u665f"
+      },
+      {
+        "id": "serverless-web-service-in-rust",
+        "start": "2019-08-17T11:50:00+08:00",
+        "end": "2019-08-17T12:30:00+08:00",
+        "title": "Serverless Web Service in Rust",
+        "room": "IB301",
+        "speaker": "\u5442\u884c"
+      },
+      {
+        "id": "f8f9b8ac-7129-4f78-934a-8346861ef26a",
+        "start": "2019-08-17T11:50:00+08:00",
+        "end": "2019-08-17T12:20:00+08:00",
+        "title": "Snap\u6253\u5305\uff1a\u8edf\u9ad4\u4f7f\u7528\u8005\u8207\u4e0a\u6e38\u7684\u2665\u591a\u5143\u6210\u5bb6\u2665",
+        "room": "IB503",
+        "speaker": "\u6797\u535a\u4ec1"
+      },
+      {
+        "id": "cdn-in-a-edge-box",
+        "start": "2019-08-17T12:00:00+08:00",
+        "end": "2019-08-17T12:50:00+08:00",
+        "title": "CDN in a Edge Box",
+        "room": "IB101",
+        "speaker": "\u7ba1\u4e16\u9054"
+      },
+      {
+        "id": "plug-it-in-mysql-authentication-with-windows-via-pam",
+        "start": "2019-08-17T12:00:00+08:00",
+        "end": "2019-08-17T12:25:00+08:00",
+        "title": "Plug It In!  MySQL Authentication with Windows via PAM ",
+        "room": "IB302",
+        "speaker": "Patrick Jolliffe"
+      },
+      {
+        "id": "6e1b9d0f-147a-43b2-bfcc-844bdf9c583c",
+        "start": "2019-08-17T12:00:00+08:00",
+        "end": "2019-08-17T12:50:00+08:00",
+        "title": "\u8edf\u9ad4\u5de5\u7a0b\u5e2b\u7684\u990a\u6210\u4e4b\u8def\u8207\u958b\u6e90\u5de5\u5177",
+        "room": "IB305",
+        "speaker": "\u6234\u5fd7\u6d0b Kaede"
+      },
+      {
+        "id": "web-browser-extension-workshop-3",
+        "start": "2019-08-17T12:00:00+08:00",
+        "end": "2019-08-17T12:55:00+08:00",
+        "title": "\u700f\u89bd\u5668\u64f4\u5145\u5957\u4ef6\u5de5\u4f5c\u574a\uff08\u7b2c\u4e09\u68af\u6b21\uff09",
+        "room": "IB306",
+        "speaker": "Ett Chung"
+      },
+      {
+        "id": "design-principle-and-best-practice-of-failpoint",
+        "start": "2019-08-17T12:05:00+08:00",
+        "end": "2019-08-17T12:30:00+08:00",
+        "title": "Design principle and best practice of failpoint",
+        "room": "IB401",
+        "speaker": "\u6768\u975e"
+      },
+      {
+        "id": "400981aa-10c5-4fdf-8e2a-c95a122cda29",
+        "start": "2019-08-17T12:05:00+08:00",
+        "end": "2019-08-17T12:35:00+08:00",
+        "title": " [\u57fa\u790e\u5efa\u8a2d] \u5efa\u7f6e Tor \u7684\u533f\u540d .onion \u7db2\u7ad9\uff0c\u4e26\u4f7f\u7528 Kubernetes \u67b6\u69cb",
+        "room": "IE2102",
+        "speaker": "YuTin"
+      },
+      {
+        "id": "b181c0c8-496a-489c-bb42-79f52654d56e",
+        "start": "2019-08-17T12:10:00+08:00",
+        "end": "2019-08-17T12:35:00+08:00",
+        "title": "ThreadSanitizer: \u904b\u4f5c\u539f\u7406\u5206\u6790\u8207\u539f\u59cb\u78bc\u5c0e\u8b80",
+        "room": "IB201",
+        "speaker": "\u738b\u742e\u744b"
+      },
+      {
+        "id": "473cd6d3-e162-4dd9-b989-b84c2d56b711",
+        "start": "2019-08-17T12:30:00+08:00",
+        "end": "2019-08-17T12:55:00+08:00",
+        "title": "TUS - \u57fa\u65bcHTTP\u7684\u6587\u4ef6\u4e0a\u50b3\u958b\u6e90\u5354\u5b9a",
+        "room": "IB302",
+        "speaker": "Sunday Ku"
+      },
+      {
+        "id": "54e3cc80-5db7-49dc-8e27-648a5a278273",
+        "start": "2019-08-17T12:35:00+08:00",
+        "end": "2019-08-17T13:15:00+08:00",
+        "title": "\u5354\u4f5c\u7684\u898f\u5247\uff1a\u6c92\u8aaa\u51fa\u53e3\u7684\u6700\u91cd\u8981\uff1f",
+        "room": "IE2102",
+        "speaker": "\u4faf\u5b9c\u79c0"
+      },
+      {
+        "id": "224e8558-e670-422f-8b8d-8bcfca383612",
+        "start": "2019-08-17T12:40:00+08:00",
+        "end": "2019-08-17T13:15:00+08:00",
+        "title": "\u4f5c\u696d\u7cfb\u7d71\u4e4b\u524d\u7684\u7a0b\u5f0f - Write An UEFI OS Loader (x86)",
+        "room": "IB201",
+        "speaker": "Descent"
+      },
+      {
+        "id": "get-started-with-rust-and-web-assembly",
+        "start": "2019-08-17T12:40:00+08:00",
+        "end": "2019-08-17T13:20:00+08:00",
+        "title": "Get started with Rust and Web Assembly",
+        "room": "IB301",
+        "speaker": "Diwanshi Pandey"
+      },
+      {
+        "id": "quic-go-when-http-3-meets-golang",
+        "start": "2019-08-17T12:40:00+08:00",
+        "end": "2019-08-17T13:10:00+08:00",
+        "title": "QUIC-GO: When HTTP/3 Meets Golang",
+        "room": "IB401",
+        "speaker": "\u5f35\u54f2\u5f6c"
+      },
+      {
+        "id": "b038b6cf-befa-4ccf-835d-86ae1a8d194f",
+        "start": "2019-08-17T12:40:00+08:00",
+        "end": "2019-08-17T13:20:00+08:00",
+        "title": "MySQL Group Replication \u5728\u9a30\u8a0a\u91d1\u878d\u79d1\u6280\u7684\u63a2\u7d22\u8207\u843d\u5730",
+        "room": "IB501",
+        "speaker": "\u59dc\u627f\u5c27"
+      },
+      {
+        "id": "herding-cats-manage-the-foss-on-licenses-as-business-intelligence",
+        "start": "2019-08-17T13:00:00+08:00",
+        "end": "2019-08-17T13:50:00+08:00",
+        "title": "\u5fa1\u8c93\u4e4b\u8853-\u4f01\u696d\u5167\u90e8\u958b\u6e90\u7ba1\u7406\u7684ABC",
+        "room": "IB101",
+        "speaker": "\u6797\u8aa0\u590f"
+      },
+      {
+        "id": "ebb4489a-7351-4387-8415-418c69fed226",
+        "start": "2019-08-17T13:00:00+08:00",
+        "end": "2019-08-17T13:25:00+08:00",
+        "title": "\u4e94\u6708\u5929\u9580\u7968\u4ea4\u63db\u5e73\u53f0",
+        "room": "IB302",
+        "speaker": "Payton CHAN"
+      },
+      {
+        "id": "161c8de5-5dd7-4430-805b-8e09d353c96f",
+        "start": "2019-08-17T13:00:00+08:00",
+        "end": "2019-08-17T16:00:00+08:00",
+        "title": "LPI \u8a8d\u8b49\u8a66\u5834",
+        "room": "IB304",
+        "speaker": ""
+      },
+      {
+        "id": "a71a41c8-347f-4c31-bdb2-dafc2466cf8d",
+        "start": "2019-08-17T13:00:00+08:00",
+        "end": "2019-08-17T13:50:00+08:00",
+        "title": "\u524d\u7aef\u5de5\u7a0b\u5e2b\u7684\u990a\u6210\u4e4b\u8def\u8207\u958b\u6e90\u5de5\u5177",
+        "room": "IB305",
+        "speaker": "Kuro Hsu"
+      },
+      {
+        "id": "c219b87a-b10d-40a6-bda9-435fd798d9bd",
+        "start": "2019-08-17T13:00:00+08:00",
+        "end": "2019-08-17T13:30:00+08:00",
+        "title": "openSUSE HCL\u6539\u9020\u63d0\u6848 & OSC19\u5fc3\u5f97\u5206\u4eab",
+        "room": "IB306",
+        "speaker": "Josh Hsi"
+      },
+      {
+        "id": "an-evaluation-of-bitcoin-address-classification-based-on-transaction-history-summarization",
+        "start": "2019-08-17T13:00:00+08:00",
+        "end": "2019-08-17T13:25:00+08:00",
+        "title": "An Evaluation of Bitcoin Address Classification based on Transaction History Summarization",
+        "room": "IB502",
+        "speaker": "\u6797\u88d5\u666f"
+      },
+      {
+        "id": "apache-rocketmq-past-present-and-future",
+        "start": "2019-08-17T13:10:00+08:00",
+        "end": "2019-08-17T13:40:00+08:00",
+        "title": "Apache RocketMQ Past, Present, and Future",
+        "room": "IB202",
+        "speaker": "\u5389\u542f\u9e4f"
+      },
+      {
+        "id": "ha-prometheus-solution-thanos",
+        "start": "2019-08-17T13:15:00+08:00",
+        "end": "2019-08-17T13:35:00+08:00",
+        "title": "HA Prometheus solution - Thanos",
+        "room": "IB401",
+        "speaker": "\u5289\u4fca\u6210"
+      },
+      {
+        "id": "build-a-minimalist-partially-c99-compliant-compiler-for-real-world-targets",
+        "start": "2019-08-17T13:20:00+08:00",
+        "end": "2019-08-17T13:45:00+08:00",
+        "title": "Build a Minimalist Partially C99-compliant Compiler for Real-world Targets ",
+        "room": "IB201",
+        "speaker": "\u5f35\u9865\u56b4"
+      },
+      {
+        "id": "be049044-3160-4376-9d4d-b900ecf5b373",
+        "start": "2019-08-17T13:20:00+08:00",
+        "end": "2019-08-17T13:40:00+08:00",
+        "title": "\u5f9e JS \u5230 Rust - web/mobile \u8de8\u5e73\u53f0 library \u958b\u767c\u5be6\u4f8b",
+        "room": "IB301",
+        "speaker": "\u9673\u5b5f\u5049"
+      },
+      {
+        "id": "persistent-isolated-and-declarative-system-environment-with-nix-and-nixos",
+        "start": "2019-08-17T13:20:00+08:00",
+        "end": "2019-08-17T13:50:00+08:00",
+        "title": "Persistent, Isolated and Declarative System Environment with Nix and NixOS",
+        "room": "IB503",
+        "speaker": "\u5f35\u535a\u51f1"
+      },
+      {
+        "id": "mysql-performance-the-dos-and-don-ts",
+        "start": "2019-08-17T13:25:00+08:00",
+        "end": "2019-08-17T14:05:00+08:00",
+        "title": "MySQL Performance - the Dos and Don\u2019ts ",
+        "room": "IB501",
+        "speaker": "Yoshiaki Yamasaki"
+      },
+      {
+        "id": "e9d24101-0507-4e29-85a1-ff6e25cf839c",
+        "start": "2019-08-17T13:30:00+08:00",
+        "end": "2019-08-17T13:55:00+08:00",
+        "title": "\u4ecb\u7d39 lingtransoft \u8a9e\u8a00\u79d1\u6280\u8cc7\u6e90",
+        "room": "IB302",
+        "speaker": "Jeremiah Chung"
+      },
+      {
+        "id": "kernel-debug-log-and-console-on-opensuse",
+        "start": "2019-08-17T13:30:00+08:00",
+        "end": "2019-08-17T14:00:00+08:00",
+        "title": "Kernel debug log and console on openSUSE",
+        "room": "IB306",
+        "speaker": "Joey Lee"
+      },
+      {
+        "id": "token-economics-a-risk-redistribution-standard-for-practical-cryptocurrency-payment",
+        "start": "2019-08-17T13:30:00+08:00",
+        "end": "2019-08-17T13:55:00+08:00",
+        "title": "Token Economics: A Risk Redistribution Standard for Practical Cryptocurrency Payment",
+        "room": "IB502",
+        "speaker": "\u674e\u5a77\u5a77"
+      },
+      {
+        "id": "62544299-4a73-42b7-acce-d3b533e869b9",
+        "start": "2019-08-17T13:40:00+08:00",
+        "end": "2019-08-17T14:00:00+08:00",
+        "title": "WheatNNLeek: \u4e00\u500bRust\u9ea5\u8525\u795e\u7d93\u7db2\u8def\u5c08\u6848",
+        "room": "IB301",
+        "speaker": "\u8a31\u4e16\u8c6a"
+      },
+      {
+        "id": "quick-and-solid-baremetal-on-openstack",
+        "start": "2019-08-17T13:40:00+08:00",
+        "end": "2019-08-17T14:10:00+08:00",
+        "title": "Quick and Solid - Baremetal on OpenStack",
+        "room": "IB401",
+        "speaker": "Rico Lin"
+      },
+      {
+        "id": "b565528a-2107-4d6c-ad55-d8cdb955d5d9",
+        "start": "2019-08-17T13:45:00+08:00",
+        "end": "2019-08-17T14:15:00+08:00",
+        "title": "\u7834\u89e3\u4e91\u539f\u751f\u5e94\u7528\u7684\u53ef\u89c2\u6d4b\u6027",
+        "room": "IB202",
+        "speaker": "\u5218\u5f81"
+      },
+      {
+        "id": "2bea215f-c5de-4352-8a9e-93125b01182f",
+        "start": "2019-08-17T13:45:00+08:00",
+        "end": "2019-08-17T14:15:00+08:00",
+        "title": "\u5f9e open source \u53d6\u7d93\u7684\u5a92\u9ad4\u7d93\u71df\u6a21\u5f0f",
+        "room": "IE2102",
+        "speaker": "\u7c21\u4fe1\u660c"
+      },
+      {
+        "id": "272bd1c6-8a25-4c93-9738-32c73e96c1db",
+        "start": "2019-08-17T13:50:00+08:00",
+        "end": "2019-08-17T14:35:00+08:00",
+        "title": "Cuju - \u865b\u64ec\u6a5f\u5bb9\u932f\u529f\u80fd\u5be6\u4f5c",
+        "room": "IB201",
+        "speaker": "\u66f9\u4f2f\u745e"
+      },
+      {
+        "id": "9cd93abf-e6b8-4114-9d45-746e4c33bcbf",
+        "start": "2019-08-17T13:50:00+08:00",
+        "end": "2019-08-17T14:30:00+08:00",
+        "title": "\u7528 ETL Kettle \u6253\u9020\u7a0b\u5e8f\u6d41\u6c34\u7dda",
+        "room": "IB503",
+        "speaker": "\u8303\u5efa\u9298"
+      },
+      {
+        "id": "f1d41b0e-e4f4-4fd3-b827-a2bd85844d2e",
+        "start": "2019-08-17T14:00:00+08:00",
+        "end": "2019-08-17T14:50:00+08:00",
+        "title": "\u7531Open Data\u81f3Open Tech\uff1a\u9999\u6e2f\u7684\u958b\u6e90\u53ca\u958b\u653e\u6578\u64da\u8207\u7db2\u7d61\u52d5\u54e1\u7684\u95dc\u4fc2",
+        "room": "IB101",
+        "speaker": "\u83ab\u4e43\u5149"
+      },
+      {
+        "id": "our-future-in-rust",
+        "start": "2019-08-17T14:00:00+08:00",
+        "end": "2019-08-17T14:20:00+08:00",
+        "title": "Our Future in Rust",
+        "room": "IB301",
+        "speaker": "Weihang Lo"
+      },
+      {
+        "id": "73f02af0-46fa-496b-adba-da74c8befbaf",
+        "start": "2019-08-17T14:00:00+08:00",
+        "end": "2019-08-17T14:25:00+08:00",
+        "title": "\u963f\u516c\u963f\u5b24\u53ef\u4ee5\u662f\u958b\u653e\u793e\u7fa4\u7684\u65b0\u529b\u91cf!",
+        "room": "IB302",
+        "speaker": "Kingman Leung"
+      },
+      {
+        "id": "a94e49d9-ae16-406e-9983-85d8e41f216e",
+        "start": "2019-08-17T14:00:00+08:00",
+        "end": "2019-08-17T14:50:00+08:00",
+        "title": "\u6d77\u5916\u982d\u8def\uff1a\u6182\u559c\u7518\u82e6\u8ac7",
+        "room": "IB305",
+        "speaker": "Lilith Peng"
+      },
+      {
+        "id": "layer-2-from-payment-to-generalized-state-channel",
+        "start": "2019-08-17T14:00:00+08:00",
+        "end": "2019-08-17T14:25:00+08:00",
+        "title": "Layer 2: From Payment to Generalized State Channel",
+        "room": "IB502",
+        "speaker": "\u9673\u54c1"
+      },
+      {
+        "id": "secure-remote-installation-with-oepnsuse",
+        "start": "2019-08-17T14:10:00+08:00",
+        "end": "2019-08-17T14:40:00+08:00",
+        "title": "Secure Remote Installation with oepnSUSE",
+        "room": "IB306",
+        "speaker": "Gary Lin"
+      },
+      {
+        "id": "7d71cf76-2aa1-4144-8f89-ab83a7cb30f6",
+        "start": "2019-08-17T14:10:00+08:00",
+        "end": "2019-08-17T14:50:00+08:00",
+        "title": "MySQL \u8de8\u96f2\u96d9\u6d3b\u89e3\u6c7a\u65b9\u6848\u5be6\u8e10",
+        "room": "IB501",
+        "speaker": "\u5468\u5f66\u4f1f"
+      },
+      {
+        "id": "233e8918-5369-4b9f-a61d-1febb8289fd3",
+        "start": "2019-08-17T14:15:00+08:00",
+        "end": "2019-08-17T14:30:00+08:00",
+        "title": "Rancher Pipeline \u4f7f\u7528\u7d93\u9a57\u5206\u4eab",
+        "room": "IB401",
+        "speaker": "\u842c\u4fca\u744b"
+      },
+      {
+        "id": "50672fbd-803f-4318-9804-83ee87bd625b",
+        "start": "2019-08-17T14:15:00+08:00",
+        "end": "2019-08-17T14:45:00+08:00",
+        "title": "\u958b\u653e\u8207\u6c11\u4e3b\u5982\u4f55\u88ab\u8cc7\u8a0a\u6230\u5229\u7528\uff1f",
+        "room": "IE2102",
+        "speaker": "\u6797\u96e8\u84bc"
+      },
+      {
+        "id": "60c903bd-73e9-40ef-98d7-7b6e51dadcc6",
+        "start": "2019-08-17T14:20:00+08:00",
+        "end": "2019-08-17T14:50:00+08:00",
+        "title": "Linux\u57fa\u91d1\u4f1a\u5fae\u670d\u52a1\u5f00\u6e90\u9879\u76ee\u2014\u2014TARS",
+        "room": "IB202",
+        "speaker": "\u5355\u81f4\u8c6a"
+      },
+      {
+        "id": "0b8b3943-49af-4efd-8ecb-35e48b47152e",
+        "start": "2019-08-17T14:30:00+08:00",
+        "end": "2019-08-17T15:10:00+08:00",
+        "title": "\u7528\u5256\u6790\u8868\u9054\u6587\u6cd5 PEG \u5be6\u4f5c\u4e00\u5957\u7a0b\u5f0f\u8a9e\u8a00 parser",
+        "room": "IB301",
+        "speaker": "\u674e\u7950\u68e0"
+      },
+      {
+        "id": "mobile-app-for-sign-language-translation-and-learning-by-image-recognition",
+        "start": "2019-08-17T14:30:00+08:00",
+        "end": "2019-08-17T14:55:00+08:00",
+        "title": "Mobile app for sign language translation and learning by image recognition",
+        "room": "IB302",
+        "speaker": "Claire Chung"
+      },
+      {
+        "id": "experience-on-grpc-rate-limiting-with-istio",
+        "start": "2019-08-17T14:30:00+08:00",
+        "end": "2019-08-17T14:50:00+08:00",
+        "title": "Experience on gRPC rate limiting with Istio",
+        "room": "IB401",
+        "speaker": "Ta-Ling Chen"
+      },
+      {
+        "id": "266f990d-09da-4db5-894b-1e74b78a93cf",
+        "start": "2019-08-17T14:30:00+08:00",
+        "end": "2019-08-17T14:55:00+08:00",
+        "title": "\u5f9e\u8ad6\u6587\u5230\u7522\u54c1: \u5be6\u4f5c\u4e0b\u4e00\u4ee3 consensus protocol: Pala",
+        "room": "IB502",
+        "speaker": "\u99f1\u5609\u6fe0"
+      },
+      {
+        "id": "status-quo-of-tensorflow-lite-on-edge-devices",
+        "start": "2019-08-17T14:30:00+08:00",
+        "end": "2019-08-17T15:00:00+08:00",
+        "title": "Status Quo of TensorFlow Lite on Edge Devices",
+        "room": "IB503",
+        "speaker": "Koan-Sin Tan"
+      },
+      {
+        "id": "4876cd7c-7c6c-449e-a2d7-037060744879",
+        "start": "2019-08-17T14:40:00+08:00",
+        "end": "2019-08-17T15:05:00+08:00",
+        "title": "\u85c9\u7531\u6e1b\u5c11\u4f8b\u5916\u8655\u7406\u7684\u9014\u5f91\u964d\u4f4e Linux \u7cfb\u7d71\u547c\u53eb\u57f7\u884c\u6210\u672c",
+        "room": "IB201",
+        "speaker": "\u6d2a\u57f9\u8ed2"
+      },
+      {
+        "id": "cri-o-introduction",
+        "start": "2019-08-17T14:40:00+08:00",
+        "end": "2019-08-17T14:55:00+08:00",
+        "title": "CRI-O Introduction",
+        "room": "IB306",
+        "speaker": "David Ko"
+      },
+      {
+        "id": "42419041-5f20-48e2-8a6a-dfa44785d9b8",
+        "start": "2019-08-17T14:45:00+08:00",
+        "end": "2019-08-17T15:15:00+08:00",
+        "title": "\u4ee5 g0v \u7cbe\u795e\u8de8\u6d77\u5354\u4f5c\uff1a\u9762\u6d77\u9ed1\u5ba2\u677e\u7d93\u9a57\u5206\u4eab",
+        "room": "IE2102",
+        "speaker": "\u6e38\u77e5\u6f94"
+      },
+      {
+        "id": "787db403-6b67-4599-9f39-74a078545cfa",
+        "start": "2019-08-17T14:55:00+08:00",
+        "end": "2019-08-17T15:25:00+08:00",
+        "title": "\u5982\u4f55\u5728\u4e24\u5e74\u5185\u4ece\u521d\u5b66\u8005\u6210\u957f\u4e3a\u6d41\u884c\u5f00\u6e90\u9879\u76ee\u7ef4\u62a4\u8005\u548c\u6280\u672f\u4e66\u4f5c\u8005\uff1f",
+        "room": "IB202",
+        "speaker": "\u674e\u8f89"
+      },
+      {
+        "id": "8127290c-33f5-4490-ab45-408e6c47a242",
+        "start": "2019-08-17T14:55:00+08:00",
+        "end": "2019-08-17T15:25:00+08:00",
+        "title": "Kubeflow \u9032\u884c\u5206\u6563\u5f0f\u6df1\u5ea6\u5b78\u7fd2\u8a13\u7df4\u4e4b\u4f5c\u696d\u6392\u7a0b\u74f6\u9838",
+        "room": "IB401",
+        "speaker": "\u6797\u7fa9\u6d0b"
+      },
+      {
+        "id": "e406d608-64ea-4517-944f-326cfac5a262",
+        "start": "2019-08-17T14:55:00+08:00",
+        "end": "2019-08-17T15:35:00+08:00",
+        "title": "MySQL 8.0\u6709\u90a3\u4e9b\u503c\u5f97\u6ce8\u610f\u7684\u65b0\u767c\u5c55",
+        "room": "IB501",
+        "speaker": "\u68b6\u5c71\u9686\u8f14"
+      },
+      {
+        "id": "architecture-pattern-for-faas-using-db",
+        "start": "2019-08-17T15:00:00+08:00",
+        "end": "2019-08-17T15:50:00+08:00",
+        "title": "Architecture pattern for FaaS using DB",
+        "room": "IB101",
+        "speaker": "Maaya Ishida"
+      },
+      {
+        "id": "5174bd94-613e-4757-85ad-52ffd1fdbc0d",
+        "start": "2019-08-17T15:00:00+08:00",
+        "end": "2019-08-17T15:25:00+08:00",
+        "title": "\u5f9e\u7522\u54c1\u71df\u904b\u770b Wordpress: \u6642\u4ee3\u8f49\u8b8a vs \u7522\u54c1\u53ca\u7cfb\u7d71\u958b\u767c",
+        "room": "IB302",
+        "speaker": "Claire Wong"
+      },
+      {
+        "id": "416d00d6-6d4b-4acd-89a5-a0d0312c0285",
+        "start": "2019-08-17T15:00:00+08:00",
+        "end": "2019-08-17T15:50:00+08:00",
+        "title": "APP \u958b\u767c\u8005\u7684\u990a\u6210\u4e4b\u8def\u8207\u958b\u6e90\u5de5\u5177",
+        "room": "IB305",
+        "speaker": "Rick"
+      },
+      {
+        "id": "5f76662e-2bdf-46b4-b948-8aea601320c0",
+        "start": "2019-08-17T15:00:00+08:00",
+        "end": "2019-08-17T16:00:00+08:00",
+        "title": "Packer build Virtualbox image \u8d77\u624b\u5f0f",
+        "room": "IB306",
+        "speaker": "Daniel Lin"
+      },
+      {
+        "id": "diode-dpki-why-blockchain-is-the-solution-to-iot-security",
+        "start": "2019-08-17T15:00:00+08:00",
+        "end": "2019-08-17T15:25:00+08:00",
+        "title": "Diode DPKI: Why blockchain is the solution to IoT security",
+        "room": "IB502",
+        "speaker": "Dominic Letz"
+      },
+      {
+        "id": "5053fc71-08dc-412d-b646-fd95c0c6f228",
+        "start": "2019-08-17T15:00:00+08:00",
+        "end": "2019-08-17T15:30:00+08:00",
+        "title": "\u63a2\u7d22\u6027\u7684\u53f0\u7063\u6587\u5b98 LibreOffice \u6eff\u610f\u5ea6\u8abf\u67e5",
+        "room": "IB503",
+        "speaker": "\u9673\u67cf\u5b89"
+      },
+      {
+        "id": "remote-memory-feasibility-performance-and-optimization",
+        "start": "2019-08-17T15:10:00+08:00",
+        "end": "2019-08-17T15:35:00+08:00",
+        "title": "Remote Memory - Feasibility, Performance and Optimization",
+        "room": "IB201",
+        "speaker": "Clay Chang"
+      },
+      {
+        "id": "concurrency-in-tikv",
+        "start": "2019-08-17T15:10:00+08:00",
+        "end": "2019-08-17T15:50:00+08:00",
+        "title": "Concurrency in TiKV",
+        "room": "IB301",
+        "speaker": "Jay Lee"
+      },
+      {
+        "id": "eea6bf6f-b63a-4a82-a1db-683e17944543",
+        "start": "2019-08-17T15:20:00+08:00",
+        "end": "2019-08-17T16:00:00+08:00",
+        "title": "\u9109\u6c11\u5982\u4f55\u53c3\u8207\u5929\u6587\u7814\u7a76?",
+        "room": "IE2102",
+        "speaker": "\u8607\u7fbf\u8c6a"
+      },
+      {
+        "id": "b6545d0f-42de-4b72-83c0-35bf8fba92be",
+        "start": "2019-08-17T15:30:00+08:00",
+        "end": "2019-08-17T16:00:00+08:00",
+        "title": "Web Components \u6807\u51c6\u5165\u95e8\u4e0e\u5e94\u7528\u5b9e\u8df5",
+        "room": "IB202",
+        "speaker": "\u77f3\u579a\uff08\u6c34\u6b4c\uff09"
+      },
+      {
+        "id": "my-open-source-journey-developer-and-community",
+        "start": "2019-08-17T15:30:00+08:00",
+        "end": "2019-08-17T15:55:00+08:00",
+        "title": "My open source journey: developer and community",
+        "room": "IB302",
+        "speaker": "Sammy Fung"
+      },
+      {
+        "id": "service-mesh-and-observability-around-it",
+        "start": "2019-08-17T15:30:00+08:00",
+        "end": "2019-08-17T16:00:00+08:00",
+        "title": "Service Mesh and Observability around it",
+        "room": "IB401",
+        "speaker": "\u5434\u665f"
+      },
+      {
+        "id": "blockchain-for-decentralized-identity",
+        "start": "2019-08-17T15:30:00+08:00",
+        "end": "2019-08-17T16:00:00+08:00",
+        "title": "Blockchain for Decentralized Identity",
+        "room": "IB502",
+        "speaker": "\u90b1\u99ff"
+      },
+      {
+        "id": "a68019d5-1fb3-4dbf-b349-79d478be759f",
+        "start": "2019-08-17T15:30:00+08:00",
+        "end": "2019-08-17T16:00:00+08:00",
+        "title": "\u7528 Pandoc \u64b0\u5beb\u5b78\u8853\u6587\u7ae0",
+        "room": "IB503",
+        "speaker": "\u90ed\u80b2\u8ce2"
+      },
+      {
+        "id": "d9f7912b-1201-4340-9364-f98ca7e811bb",
+        "start": "2019-08-17T15:35:00+08:00",
+        "end": "2019-08-17T16:00:00+08:00",
+        "title": "MySQL\u5713\u684c\u6703\u8b70",
+        "room": "IB501",
+        "speaker": ""
+      },
+      {
+        "id": "nstack-develop-and-validate-tcp-ip-stack-in-linux-userspace",
+        "start": "2019-08-17T15:40:00+08:00",
+        "end": "2019-08-17T16:00:00+08:00",
+        "title": "nstack: Develop and Validate TCP/IP stack in Linux Userspace",
+        "room": "IB201",
+        "speaker": "\u9b91\u4fca\u5b89"
+      },
+      {
+        "id": "9389212d-4df8-4882-a8d2-21af44f12ede",
+        "start": "2019-08-17T16:10:00+08:00",
+        "end": "2019-08-17T16:40:00+08:00",
+        "title": "17 \u76f4\u64ad\u5f9e 0 \u5230 1 \u4e4b\u72fc\u4eba\u6bba",
+        "room": "IB101",
+        "speaker": "Racing Wang"
+      },
+      {
+        "id": "7e1c8dec-964a-414b-9aa5-35ca112f38cd",
+        "start": "2019-08-17T16:40:00+08:00",
+        "end": "2019-08-17T17:10:00+08:00",
+        "title": "Five years on the Rust core team: a retrospective",
+        "room": "IB101",
+        "speaker": "Steve Klabnik"
+      },
+      {
+        "id": "day-1-recap",
+        "start": "2019-08-17T17:10:00+08:00",
+        "end": "2019-08-17T17:30:00+08:00",
+        "title": "\u9996\u65e5\u56de\u9867",
+        "room": "IB101",
+        "speaker": "COSCUP Staff"
+      }
+    ],
+    "rooms": [
+      "IB101",
+      "IB201",
+      "IB202",
+      "IB301",
+      "IB302",
+      "IB304",
+      "IB305",
+      "IB306",
+      "IB401",
+      "IB408",
+      "IB501",
+      "IB502",
+      "IB503",
+      "IE2102",
+      "TR313",
+      "TR309",
+      "TR312",
+      "TR310-1",
+      "TR409-1",
+      "TR411",
+      "TR412-1",
+      "TR412-2",
+      "TR409-2",
+      "TR511 & TR512",
+      "TR413-1",
+      "TR413-2",
+      "TR509",
+      "TR510"
+    ],
+    "startTime": "2019-08-17 08:30:00+08:00",
+    "endTime": "2019-08-17 17:30:00+08:00"
+  }
